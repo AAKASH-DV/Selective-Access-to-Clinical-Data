@@ -21,7 +21,7 @@ import ()
 import (
 	"fmt"
 	"github.com/fentec-project/gofe/abe"
-	"github.com/fentec-project/scenario/serialization"
+	"github.com/fentec-project/Selective-Access-to-Clinical-Data/serialization"
 )
 
 // This is an adaptor for the fame ABE scheme on github.com/fentec-project/gofe/abe
